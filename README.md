@@ -24,8 +24,8 @@
 
 <p align="center">
   <a href="https://github.com/IT24102083?tab=repositories"><img src="https://img.shields.io/badge/Repositories-75+-2962FF?style=for-the-badge&logoColor=white" alt="Repositories"></a>
-  <a href="https://github.com/IT24102083?tab=followers"><img src="https://img.shields.io/badge/Followers-100+-2962FF?style=for-the-badge&logoColor=white" alt="Followers"></a>
-  <a href="https://github.com/IT24102083"><img src="https://komarev.com/ghpvc/?username=IT24102083&style=for-the-badge&color=2962FF" alt="Profile Views"></a>
+  <a href="https://github.com/IT24102083?tab=followers"><img src="https://img.shields.io/badge/Followers-5+-2962FF?style=for-the-badge&logoColor=white" alt="Followers"></a>
+  <a href="https://github.com/IT24102083"><img src="https://komarev.com/ghpvc/?username=Kavi-ya&style=for-the-badge&color=2962FF" alt="Profile Views"></a>
 </p>
 
 <a href="https://gitroll.io/profile/ughywMoa7FgXHZtzc57gqoe8OcF62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ughywMoa7FgXHZtzc57gqoe8OcF62?theme=darkEmerald" height="28" alt="GitRoll Profile Badge"/></a>
