@@ -1,5 +1,3 @@
-# 💫 SENIOR FULL-STACK DEVELOPER & CLOUD ARCHITECT 💫
-
 <div align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
@@ -198,66 +196,10 @@ const profile = {
 </div>
 
 <details>
-  <summary><h2>🏆 Achievements</h2></summary>
-  
-  <div align="center">
-    <div style="margin-top: 20px;">
-      <img src="https://nirzak-trophies.vercel.app/?username=kavi-ya&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
-    </div>
+  <summary>🏆 Achievements</summary>
 
-    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 15px;">
-      <div align="center">
-        <img src="./assets/badge-multilanguage.png" width="50" height="50" alt="MultiLanguage" /><br>
-        MultiLanguage<br>
-        <sup>1 pt</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-joined2020.png" width="50" height="50" alt="Joined2020" /><br>
-        Joined2020<br>
-        <sup>1 pt</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-commits.png" width="50" height="50" alt="Commits" /><br>
-        Ultra Committer<br>
-        <sup>500+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-stars.png" width="50" height="50" alt="Stars" /><br>
-        High Star<br>
-        <sup>50+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-pullrequest.png" width="50" height="50" alt="PullRequest" /><br>
-        Hyper Puller<br>
-        <sup>80+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-repositories.png" width="50" height="50" alt="Repositories" /><br>
-        Hyper Repo Creator<br>
-        <sup>75+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-experience.png" width="50" height="50" alt="Experience" /><br>
-        Experienced Dev<br>
-        <sup>7 pt</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-issues.png" width="50" height="50" alt="Issues" /><br>
-        High Issue<br>
-        <sup>30+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-followers.png" width="50" height="50" alt="Followers" /><br>
-        Many Friends<br>
-        <sup>100+</sup>
-      </div>
-      <div align="center">
-        <img src="./assets/badge-reviews.png" width="50" height="50" alt="Reviews" /><br>
-        Intermediate Reviewer<br>
-        <sup>40+</sup>
-      </div>
-    </div>
-  </div>
+  ![Trophy Graph](https://nirzak-trophies.vercel.app/?username=kavi-ya&theme=radical&no-frame=true&column=-1)
+  
 </details>
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
@@ -323,5 +265,4 @@ const profile = {
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:008bff,100:00c7ff">
     <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:008bff,100:00c7ff" alt="footer">
   </picture>
-  <p>Last updated: 2025-08-29 21:15:45 (UTC)</p>
 </div>
