@@ -46,27 +46,19 @@
 // const life = new Coding();
 const profile = {
   name: "Kaviya",
-  role: "Senior Software Engineer",
-  experience: "7+ years",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
+  role: "Software Engineer",
+  experience: "1+ years",
+  languages: ["JavaScript", "TypeScript", "Python", "Java"],
   specialties: ["Full-Stack Development", "Cloud Architecture", "System Design"],
-  current_focus: "Building scalable, microservice-oriented applications",
+  current_focus: "Building scalable, web-oriented applications",
   education: {
-    degree: "MSc Computer Science",
-    interests: ["AI/ML", "Cloud Systems", "Cyber-Security"]
-  },
-  hobbies: ["Open Source"]
-};
+    degree: "Undergraduate of CyberSecurity ",
+    interests: ["AI/ML", "Cloud Systems", "Cyber-Security"]},  hobbies: ["Open Source"]};
 ```
 
 <div align="center">
   <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavi-ya&show_icons=true&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kavi-ya&background=00000000&hide_border=true&stroke=6B7280&ring=00c7ff&fire=2962FF&currStreakNum=6B7280&sideNums=6B7280&currStreakLabel=00c7ff&sideLabels=00c7ff&dates=6B7280" alt="GitHub Streak" />
+    <tr><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kavi-ya&background=00000000&hide_border=true&stroke=6B7280&ring=00c7ff&fire=2962FF&currStreakNum=6B7280&sideNums=6B7280&currStreakLabel=00c7ff&sideLabels=00c7ff&dates=6B7280" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -139,10 +131,8 @@ const profile = {
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
     <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="stars">
     <b style="margin: 0 10px;">62</b> Stars Earned
-    
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" alt="commits" style="margin-left: 20px;">
     <b style="margin: 0 10px;">521</b> Total Commits (2025)
-    
     <img src="https://user-images.githubusercontent.com/74038190/216122055-0d2e98df-7c0e-4f55-8f99-4dc0010ce5f4.png" width="30" alt="pull-requests" style="margin-left: 20px;">
     <b style="margin: 0 10px;">98</b> Pull Requests
   </div>
@@ -150,10 +140,8 @@ const profile = {
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
     <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-a727e0e85b9f.gif" width="30" alt="bug">
     <b style="margin: 0 10px;">39</b> Issues Created
-    
     <img src="https://user-images.githubusercontent.com/74038190/216122096-9b5b88d4-59d6-440a-89b4-cf8b2441d355.png" width="30" alt="contributions" style="margin-left: 20px;">
     <b style="margin: 0 10px;">874</b> Total Contributions
-    
     <img src="https://user-images.githubusercontent.com/74038190/216125640-2008e959-128e-4055-9841-b2be10b71b69.png" width="30" alt="repository" style="margin-left: 20px;">
     <b style="margin: 0 10px;">8</b> Repositories Contributed
   </div>
@@ -167,7 +155,6 @@ const profile = {
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi-ya&bg_color=00000000&color=00c7ff&line=2962FF&point=00c7ff&hide_border=true&area=true" width="100%" alt="Activity Graph" />
       </p>
     </div>
-    
     <div style="border: 1px solid #2d333b; border-radius: 8px; padding: 16px;">
       <h3 align="center" style="margin-top: 0;">Language Distribution</h3>
       <p align="center">
@@ -177,17 +164,18 @@ const profile = {
   </div>
   
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #00c7ff;">874</h3>
       <p>Total Contributions</p>
-      <small>May 28, 2020 - Present</small>
-    </div>
-    <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <small>May 28, 2020 - Present</small>    </div>
+    
+  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #00c7ff;">2</h3>
       <p>Current Streak</p>
       <small>Aug 10 - Aug 11</small>
     </div>
-    <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  
+  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #00c7ff;">11</h3>
       <p>Longest Streak</p>
       <small>Mar 28 - Apr 7</small>
@@ -205,11 +193,11 @@ const profile = {
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Kavi-ya/enterprise-cloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-ya&repo=enterprise-cloud&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="Enterprise Cloud" />
+  <a href="https://github.com/Kavi-ya/Greenhouse-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-ya&repo=Greenhouse-Automation&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="Enterprise Cloud" />
   </a>
-  <a href="https://github.com/Kavi-ya/ai-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-ya&repo=ai-analytics&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="AI Analytics" />
+  <a href="https://github.com/Kavi-ya/Exam-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-ya&repo=Exam-Management-System&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="AI Analytics" />
   </a>
 </div>
 
@@ -227,7 +215,7 @@ const profile = {
 ## <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/kaviya" target="_blank">
+  <a href="https://linkedin.com/in/kaviya" target="https://www.linkedin.com/in/kavindu-sahan-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/kaviya" target="_blank">
@@ -239,7 +227,7 @@ const profile = {
   <a href="https://stackoverflow.com/users/12345678" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="mailto:contact@kaviya.com">
+  <a href="mailto:kavindusahansilva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -249,9 +237,6 @@ const profile = {
 <div align="center">
   <a href="https://www.buymeacoffee.com/kaviya" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
-  </a>
-  <a href="https://github.com/sponsors/Kavi-ya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40" alt="GitHub Sponsors" />
   </a>
 </div>
 
