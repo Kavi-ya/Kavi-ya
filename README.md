@@ -17,11 +17,12 @@
   <a href="https://github.com/Kavi-ya?tab=followers"><img src="https://img.shields.io/badge/Followers-100+-2962FF?style=for-the-badge&logoColor=white" alt="Followers"></a>
   <a href="https://github.com/Kavi-ya"><img src="https://komarev.com/ghpvc/?username=Kavi-ya&style=for-the-badge&color=2962FF" alt="Profile Views"></a>
 </p>
-<div align ="center">
-<a href="https://gitroll.io/profile/ughywMoa7FgXHZtzc57gqoe8OcF62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ughywMoa7FgXHZtzc57gqoe8OcF62?theme=darkEmerald" height="280" alt="GitRoll Profile Badge"/></a>
 
-<div align="center">
-![Snake animation](https://github.com/kavi-ya/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
+<div align ="center">
+<a href="https://gitroll.io/profile/ughywMoa7FgXHZtzc57gqoe8OcF62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ughywMoa7FgXHZtzc57gqoe8OcF62?theme=darkEmerald" height="280" alt="GitRoll Profile Badge"/>
+</a>
+  
+  ![Snake animation](https://github.com/kavi-ya/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
