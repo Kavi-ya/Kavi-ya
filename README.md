@@ -21,11 +21,7 @@
 <a href="https://gitroll.io/profile/ughywMoa7FgXHZtzc57gqoe8OcF62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ughywMoa7FgXHZtzc57gqoe8OcF62?theme=darkEmerald" height="280" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kavi-ya/Kavi-ya/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kavi-ya/Kavi-ya/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://github.com/Kavi-ya/Kavi-ya/blob/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+![Snake animation](https://github.com/kavi-ya/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
