@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavi-ya&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavi-ya&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=62&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -182,7 +182,6 @@ const profile = {
 </div>
 
 <div align="center">
-  <p><i>View more projects in my repositories</i></p>
   <a href="https://github.com/Kavi-ya?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-00c7ff?style=for-the-badge" alt="View All Repositories"/>
   </a>
