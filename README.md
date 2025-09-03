@@ -1,15 +1,5 @@
 <div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c7ff,100:008bff&text=Kaviya&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Senior%20Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c7ff,100:008bff&text=Kaviya&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Senior%20Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c7ff,100:008bff&text=Kaviya&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Senior%20Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" alt="header">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavi-ya&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -125,70 +115,60 @@ const profile = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Metrics
-
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-    <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="stars">
-    <b style="margin: 0 10px;">62</b> Stars Earned
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" alt="commits" style="margin-left: 20px;">
-    <b style="margin: 0 10px;">521</b> Total Commits (2025)
-    <img src="https://user-images.githubusercontent.com/74038190/216122055-0d2e98df-7c0e-4f55-8f99-4dc0010ce5f4.png" width="30" alt="pull-requests" style="margin-left: 20px;">
-    <b style="margin: 0 10px;">98</b> Pull Requests
-  </div>
-  
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-    <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-a727e0e85b9f.gif" width="30" alt="bug">
-    <b style="margin: 0 10px;">39</b> Issues Created
-    <img src="https://user-images.githubusercontent.com/74038190/216122096-9b5b88d4-59d6-440a-89b4-cf8b2441d355.png" width="30" alt="contributions" style="margin-left: 20px;">
-    <b style="margin: 0 10px;">874</b> Total Contributions
-    <img src="https://user-images.githubusercontent.com/74038190/216125640-2008e959-128e-4055-9841-b2be10b71b69.png" width="30" alt="repository" style="margin-left: 20px;">
-    <b style="margin: 0 10px;">8</b> Repositories Contributed
-  </div>
-</div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img alt="Stars" src="https://img.shields.io/badge/🌟_Stars-62-00C7FF?style=for-the-badge&labelColor=1a1b27&color=00C7FF"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Commits" src="https://img.shields.io/badge/⚡_Commits-521-00d084?style=for-the-badge&labelColor=1a1b27&color=00d084"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="PRs" src="https://img.shields.io/badge/🔄_Pull_Requests-98-f873ff?style=for-the-badge&labelColor=1a1b27&color=f873ff"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img alt="Issues" src="https://img.shields.io/badge/🐛_Issues-39-ff6b6b?style=for-the-badge&labelColor=1a1b27&color=ff6b6b"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Contributions" src="https://img.shields.io/badge/📊_Contributions-874-a388fe?style=for-the-badge&labelColor=1a1b27&color=a388fe"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Repos" src="https://img.shields.io/badge/📦_Repositories-8-ffba08?style=for-the-badge&labelColor=1a1b27&color=ffba08"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<div class="stats-container" align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
-    <div style="border: 1px solid #2d333b; border-radius: 8px; padding: 16px;">
-      <h3 align="center" style="margin-top: 0;">Activity Timeline</h3>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi-ya&bg_color=00000000&color=00c7ff&line=2962FF&point=00c7ff&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-      </p>
-    </div>
-    <div style="border: 1px solid #2d333b; border-radius: 8px; padding: 16px;">
-      <h3 align="center" style="margin-top: 0;">Language Distribution</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi-ya&layout=compact&theme=transparent&hide_border=true&title_color=00c7ff&text_color=6B7280&bg_color=00000000" alt="Top Languages" />
-      </p>
-    </div>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <h3 style="margin-top: 0; color: #00c7ff;">874</h3>
-      <p>Total Contributions</p>
-      <small>May 28, 2020 - Present</small>    </div>
-    
-  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <h3 style="margin-top: 0; color: #00c7ff;">2</h3>
-      <p>Current Streak</p>
-      <small>Aug 10 - Aug 11</small>
-    </div>
-  
-  <div style="background: linear-gradient(145deg, #101217, #1d212e); border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <h3 style="margin-top: 0; color: #00c7ff;">11</h3>
-      <p>Longest Streak</p>
-      <small>Mar 28 - Apr 7</small>
-    </div>
-  </div>
-</div>
+  <!-- Activity Graph -->
+<br/>
+<!-- Language Distribution Header -->
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+    Most Used Languages
+  </h2>
 
-<details>
-  <summary>🏆 Achievements</summary>
-
+  <!-- Large Language Card -->
+  <a href="https://github.com/Kavi-ya">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi-ya&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb&cache_seconds=7200" alt="Most Used Languages"/>
+  </a>
+  <br/>
+  <br/>
+  
   ![Trophy Graph](https://nirzak-trophies.vercel.app/?username=kavi-ya&theme=radical&no-frame=true&column=-1)
-  
-</details>
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
 
